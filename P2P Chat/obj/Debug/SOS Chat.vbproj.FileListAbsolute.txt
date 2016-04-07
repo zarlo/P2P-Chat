@@ -1,0 +1,25 @@
+C:\Users\kaleb\AppData\Local\Temporary Projects\SOS Chat\bin\Debug\SOS Chat.exe.config
+C:\Users\kaleb\AppData\Local\Temporary Projects\SOS Chat\bin\Debug\SOS Chat.exe
+C:\Users\kaleb\AppData\Local\Temporary Projects\SOS Chat\bin\Debug\SOS Chat.pdb
+C:\Users\kaleb\AppData\Local\Temporary Projects\SOS Chat\bin\Debug\SOS Chat.xml
+C:\Users\kaleb\AppData\Local\Temporary Projects\SOS Chat\obj\Debug\SOS Chat.vbprojResolveAssemblyReference.cache
+C:\Users\kaleb\AppData\Local\Temporary Projects\SOS Chat\obj\Debug\SOS_Chat.Resources.resources
+C:\Users\kaleb\AppData\Local\Temporary Projects\SOS Chat\obj\Debug\SOS Chat.vbproj.GenerateResource.Cache
+C:\Users\kaleb\AppData\Local\Temporary Projects\SOS Chat\obj\Debug\SOS Chat.exe
+C:\Users\kaleb\AppData\Local\Temporary Projects\SOS Chat\obj\Debug\SOS Chat.xml
+C:\Users\kaleb\AppData\Local\Temporary Projects\SOS Chat\obj\Debug\SOS Chat.pdb
+C:\Users\kaleb\Desktop\DEV\SOS Chat\SOS Chat\bin\Debug\SOS Chat.exe.config
+C:\Users\kaleb\Desktop\DEV\SOS Chat\SOS Chat\obj\Debug\SOS Chat.exe
+C:\Users\kaleb\Desktop\DEV\SOS Chat\SOS Chat\obj\Debug\SOS Chat.xml
+C:\Users\kaleb\Desktop\DEV\SOS Chat\SOS Chat\obj\Debug\SOS Chat.pdb
+C:\Users\kaleb\Desktop\DEV\SOS Chat\SOS Chat\bin\Debug\SOS Chat.exe
+C:\Users\kaleb\Desktop\DEV\SOS Chat\SOS Chat\bin\Debug\SOS Chat.pdb
+C:\Users\kaleb\Desktop\DEV\SOS Chat\SOS Chat\bin\Debug\SOS Chat.xml
+C:\Users\kaleb\Desktop\DEV\SOS Chat\SOS Chat\obj\Debug\SOS_Chat.Resources.resources
+C:\Users\kaleb\Desktop\DEV\SOS Chat\SOS Chat\obj\Debug\SOS Chat.vbproj.GenerateResource.Cache
+C:\Users\kaleb\Desktop\DEV\SOS Chat\SOS Chat\bin\Debug\data.xml
+C:\Users\kaleb\Desktop\DEV\SOS Chat\SOS Chat\bin\Debug\config.xml
+C:\Users\kaleb\Desktop\DEV\SOS Chat\SOS Chat\obj\Debug\SOS Chat.vbprojResolveAssemblyReference.cache
+C:\Users\kaleb\Desktop\DEV\SOS Chat\SOS Chat\obj\Debug\Interop.UPnPHostLib.dll
+C:\Users\kaleb\Desktop\DEV\SOS Chat\SOS Chat\obj\Debug\Interop.UPNPLib.dll
+C:\Users\kaleb\Desktop\DEV\SOS Chat\SOS Chat\obj\Debug\SOS Chat.vbproj.ResolveComReference.cache

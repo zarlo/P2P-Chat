@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+
+  <host>
+
+    <ip>http://punksky.xyz/SOSchat.php</ip>
+    <port>80</port>
+    <id>Punksky.root</id>
+    <type>http</type>
+    <custom>
+    </custom>
+  </host>
+
+  <user>
+    <ip>127.0.0.1</ip>
+    <port>326</port>
+    <id>teml.12684</id>
+  </user>
+
+</data>
