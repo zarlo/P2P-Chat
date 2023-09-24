@@ -1,7 +1,0 @@
-C:\Users\kaleb\Desktop\DEV\SOS Chat\P2P Chat\bin\Debug\SOS Chat.exe.config
-C:\Users\kaleb\Desktop\DEV\SOS Chat\P2P Chat\obj\Debug\Interop.UPnPHostLib.dll
-C:\Users\kaleb\Desktop\DEV\SOS Chat\P2P Chat\obj\Debug\Interop.UPNPLib.dll
-C:\Users\kaleb\Desktop\DEV\SOS Chat\P2P Chat\obj\Debug\P2P Chat.vbproj.ResolveComReference.cache
-C:\Users\kaleb\Desktop\DEV\SOS Chat\P2P Chat\obj\Debug\SOS Chat.exe
-C:\Users\kaleb\Desktop\DEV\SOS Chat\P2P Chat\obj\Debug\SOS Chat.xml
-C:\Users\kaleb\Desktop\DEV\SOS Chat\P2P Chat\obj\Debug\SOS Chat.pdb
